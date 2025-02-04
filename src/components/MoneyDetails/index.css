@@ -3,7 +3,7 @@
 
 .money-details-container {
   border-style: solid;
-  border-width: 1px;
+  border-width: 10px;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
